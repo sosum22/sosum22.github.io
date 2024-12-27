@@ -178,7 +178,7 @@ Anomalous data가 부족하기 때문에, unsupervised learning이 주로 사용
 ### 3.1. Data Collection and Construction Manner
 
 <div style="text-align: center;">
-    <img src="/Users/soyulim/sosum22.github.io/_media/Real_IAD_1.png" alt="이미지 설명" style="width: 800px; height: auto;">
+    <img src="../_media/Real_IAD_1.png" alt="이미지 설명" style="width: 800px; height: auto;">
     <div style="display: inline-block; text-align: left; margin-top: 10px; max-width: 800px; font-size: 14px;">
     </div>
 </div>
