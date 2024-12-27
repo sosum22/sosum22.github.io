@@ -4,7 +4,6 @@ date: 2024-12-27
 categories: [Paper Review, example]
 tags: [CV, CVPR, Anomaly Detection]
 layout: post
-typora-copy-images-to: _media
 ---
 
 [toc]
