@@ -1,7 +1,7 @@
 ---
 title: "[Paper Review] Real-IAD: A Real-World Multi-View Dataset for Benchmarking Versatile Industrial Anomaly Detection"
 date: 2024-12-27
-categories: [Paper Review]
+categories: [Paper Review, example]
 tags: [CV, CVPR, Anomaly Detection]
 layout: post
 typora-copy-images-to: ../../../sosum22.github.io/_media
