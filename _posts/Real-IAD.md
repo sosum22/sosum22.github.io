@@ -233,7 +233,7 @@ acquisition equipment
 ### 3.2. Comparison with Popular 2D Datasets
 
 <div style="text-align: center;">
-    <img src="/Users/soyulim/sosum22.github.io/_media/스크린샷 2024-12-26 오후 5.04.47.png" alt="이미지 설명" style="width: 800px; height: auto;">
+    <img src="/Users/soyulim/sosum22.github.io/_media/screenshot_2024-12-26_pm_5.04.47.png" alt="이미지 설명" style="width: 800px; height: auto;">
     <div style="display: inline-block; text-align: left; margin-top: 10px; max-width: 800px; font-size: 14px;">
     </div>
 </div>
