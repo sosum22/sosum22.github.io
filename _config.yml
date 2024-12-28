@@ -153,6 +153,7 @@ paginate: 10
 baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
+markdown:kramdown
 
 kramdown:
   math_engine: katex
